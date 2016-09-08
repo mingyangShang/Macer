@@ -21,3 +21,6 @@ The `apps.md` file notes about apps will be used commonly,your effectiveness wil
 
  - Navicat
  - Tunnelbclick
+
+ - Android
+    AndroidStudio
