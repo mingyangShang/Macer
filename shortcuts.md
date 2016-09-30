@@ -19,6 +19,8 @@ The `shortcuts.md` file notes about some convenient shortcuts when using mac.Man
 	|Command+shift+delete|彻底删除文件|
 	|Command+Ctrl+空格|显示特殊字符、表情面板|
 	|Command+空格|切换输入法(按住Command不放开可以看到当前调出的所有输入法，上下键选择)|
+	|Command+shift+f|最大化窗口|
+	|Command+shift+3/4|全屏/局部截图,结果保存在桌面|Command+Shift|
 	
 	
 -  **<font size='+1'>终端快捷键</font>**
